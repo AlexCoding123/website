@@ -1,0 +1,19 @@
+.what-Ido h1{
+  font-size: 3.4rem;
+  font-family: 'Bitter', serif;
+  color: #B4DBEA;
+  text-align: Left;
+  padding-left: 125px;
+  padding-top: 25px;
+  line-height: 1;
+  margin-bottom: 0px;
+}
+
+.what-Ido p{
+  color: #B4DBEA;
+  font-weight: 50;
+  font-family: 'Bitter', serif;
+  text-align: Left;
+  font-size: 1.3rem;
+  padding-left: 125px;
+}

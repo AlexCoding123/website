@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitter:wght@400;700&display=swap');
+
+.intro h1{
+  font-size: 3.4rem;
+  font-weight: 1;
+  font-family: 'Bitter', serif;
+  color: #B4DBEA;
+  text-align: Left;
+  padding-left: 125px;
+  padding-top: 175px;
+  line-height: 1;
+  margin-bottom: 0px;
+}
+
+.intro p{
+  color: #B4DBEA;
+  font-weight: 50;
+  font-family: 'Bitter', serif;
+  text-align: Left;
+  font-size: 1.3rem;
+  padding-left: 125px;
+}
+
+b {
+  font-weight: 1000;
+}
+
+.divider {
+  width: 0px;
+  height: 380px;
+  border: 1px solid #72868f ;
+  margin-left: 150px;
+}
+
+.span-container {
+  color: #72868f;
+  margin-left: 150px;
+}
+
+.span-container span{
+  padding: 3px;
+  font-size: 0.8rem;
+}
+
+.scroll{
+  margin-top: 100px;
+  width: 500px;
+  display: flex;
+  flex-direction: column;
+  align-items: right;
+  align-items: center;
+  justify-content: center;
+}
