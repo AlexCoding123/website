@@ -11,8 +11,7 @@ const WhatIDo = () => {
           It's all about
           turning imagination into code.<br/>
            Check out my work and see what I've been up to!</p>
-
-
+      <button className="button">More about me</button>
     </div>
   )
 }

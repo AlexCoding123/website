@@ -17,3 +17,35 @@
   font-size: 1.3rem;
   padding-left: 125px;
 }
+
+.button {
+  padding: 15px 40px; /* Adjust the padding to match the button size */
+  background-color: #B4DBEA; /* This is the base color, you may need a gradient or pattern */
+  color: #A020F0; /* This is the text color */
+  border: 2px solid #A020F0; /* Adjust the border color and width as needed */
+  border-radius: 8px; /* This gives the rounded corners to the button */
+  text-align: center;
+  display: inline-block;
+  font-size: 16px; /* Adjust the font size as needed */
+  text-transform: uppercase; /* This makes the text uppercase */
+  text-decoration: none; /* Removes underline from links if it's an anchor */
+  box-shadow: 0px 4px 8px 0px rgba(0,0,0,0.2); /* This adds a shadow, adjust as needed */
+  transition: all 0.3s; /* Smooth transition for hover effects */
+  cursor: pointer; /* Changes cursor to pointer on hover */
+  background-image: repeating-linear-gradient(
+    -45deg,
+    #B4DBEA,
+    #B4DBEA 10px,
+    #FFFFFF 10px,
+    #FFFFFF 20px
+  ); 
+  margin-left: 125px;
+  margin-top: 50px;
+}
+
+.button:hover {
+  background-image: none; 
+  background-color: #B4DBEA; /* Color when the button is hovered over */
+  color: #A020F0; /* Text color when the button is hovered over */
+  border-color: #A020F0; /* Border color when the button is hovered over */
+}

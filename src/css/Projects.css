@@ -1,0 +1,45 @@
+.projects h1{
+  font-size: 2.4rem;
+  font-family: 'Bitter', serif;
+  color: #B4DBEA;
+  text-align: Left;
+  padding-left: 125px;
+  padding-top: 250px;
+  line-height: 1;
+  margin-bottom: 0px;
+}
+
+.projects p{
+  color: #B4DBEA;
+  font-weight: 50;
+  font-family: 'Bitter', serif;
+  text-align: Left;
+  font-size: 1.3rem;
+  padding-left: 125px;
+}
+
+.gh-links div{
+  display: flex;
+  justify-content: center;
+}
+
+.gh-links div div{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.gh-links h1{
+  padding-top: 75px;
+  margin-right: 75px;
+}
+
+hr {
+  width: 85%;
+  background-color:#B4DBEA;
+}
+
+.mobile-app{
+  margin-right: 110px;
+}
+
